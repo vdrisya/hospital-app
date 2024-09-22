@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "RCC",
+    "patientCount": 2600,
+    "location": "Trivandrum"
+  },
+  {
+    "id": 2,
+    "name": "gokulam hospital",
+    "patientCount": 54,
+    "location": "Kochi"
+  },
+  {
+    "id": 3,
+    "name": "NIMS hospital",
+    "patientCount": 50,
+    "location": "Kochi"
+  },
+  {
+    "id": 4
+  }
+]
